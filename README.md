@@ -84,6 +84,14 @@ Phase 2 studies how insights must be presented for coaches and athletes to act o
 
 This is infrastructure-stage work. It makes no causal claim about performance change.
 
+## 💼 Business relevance
+
+Missing performance data is a market problem as well as a sports one. Without it, clubs
+misjudge player value, sponsors can't measure what they fund, and federations lack the
+evidence to allocate resources. This project's next phases examine what drives clubs to
+adopt performance data, what it costs to produce, and how it changes coaching and
+selection decisions.
+
 ## 🗺️ Roadmap
 
 - [x] **Phase 1: Data.** Extraction pipeline, Omega dataset, validation
